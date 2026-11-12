@@ -1,0 +1,73 @@
+Render CH11-P049 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH11-049-art.png, IAKESI-CH11-049-lettering.png, and IAKESI-CH11-049-text.txt.
+ARTWORK FILE — IAKESI-CH11-049-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH11-049-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH11-049-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 6 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Rendering style:
+- RENDERING STYLE — BINDING: Domain of the Gods near-photorealistic illustration. Target approximately 70% photorealistic rendering and 30% manga influence.
+- Character sheets and production sheets define identity, proportions, hair geometry, costume construction, colors, props, and environment design ONLY. Do NOT copy their anime/manga/production-sheet drawing style into the finished page.
+- Render canonical character-sheet designs as physically convincing people: dimensional facial anatomy, natural skin shading and texture, realistic eyes within moderately manga-influenced facial aesthetics, individually modeled hair strands/curl masses, physically plausible fabric folds and translucency, convincing material response, volumetric light, photographic depth, and realistic integration into the environment.
+- Avoid polished-anime, cel-shaded, flat digital-illustration, clean line-art, plastic-smooth skin, simplified hair masses, or generic anime-background rendering. The result should feel materially real despite the impossible setting.
+- Authority order for appearance: canonical character/location sheets and specifications control WHAT is depicted; approved rendered-page continuity controls established rendered appearance and finish; this DOTG style rule controls HOW all canonical designs are rendered.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Ashiba-Academy-Classroom-Reference-Sheet.png, Assets/Adnil-production-sheet.png, Assets/Midori-Production-Academy.png, Assets/Midori-Academy-Uniform-Production-Sheet.png, Assets/Academy-Uniform-Female.png, Assets/Naandeen-production-sheet.png, Assets/Zarleen-age-19-20.png, Assets/Beli-production-sheet.png, Assets/Buren-Character-Sheet.png, Assets/Kenee-Character-Sheet.png, Assets/Academy-Uniform-Male.png, Assets/Roselyn-production-sheet.png.
+Print-production geometry:
+- AI RENDER-SAFE TARGET: x=173..912, y=111..1424. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=125..960, y=63..1472; page side=recto; binding side=left.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Setting: Novice classroom
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Interior of the homeroom (Semicircular stadium seating, perhaps enough for 50 students; no decorations on the walls; no obvious lighting fixtures). Sunlight streams through the tall windows. Students settle into their seats while quietly watching Midori. Adnil motions toward four adjacent desk seats in the front row (behind a modesty panel)
+- Blocking: Adnil motions toward four adjacent desk seats in the front row (behind a modesty panel)
+- Action: Interior of the homeroom (Semicircular stadium seating, perhaps enough for 50 students; no decorations on the walls; no obvious lighting fixtures).
+- CH11-P049-S01-L01: Adnil, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Adnil: “Over here.” -> “Let's sit here for now.”
+
+Panel 2:
+- Setting: Novice classroom
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Midori sits down. Several nearby students continue stealing glances at her black hair. A few whisper behind raised hands. No dialogue.
+- Blocking: Adnil, Midori, Naandeen, Zarleen
+- Action: Midori sits down.
+
+Panel 3:
+- Setting: Novice classroom
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Across the room. Buren sits with his arms folded. Kenee sits beside him; Beli sits beside Kenee. Kenee leans over to whisper, remaining between Buren and Beli.
+- Blocking: Buren, Kenee, Beli
+- Action: Across the room.
+- CH11-P049-S03-L01: Kenee, speech balloon (one speaker tail): “She really came...”
+
+Panel 4:
+- Setting: Novice classroom
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Buren never takes his eyes off Midori. Kenee swallows nervously.
+- Blocking: Buren, Kenee, Beli
+- Action: Buren never takes his eyes off Midori.
+- CH11-P049-S04-L01: Buren, connected speech-balloon chain with 3 balloons; exactly one tail on the entire chain points to Buren: “Of course she did.” -> “The Headmistress herself introduced her.” -> “That doesn't answer the important question.”
+
+Panel 5:
+- Setting: Novice classroom
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Beli quietly looks toward Midori. Buren answers calmly, not angrily.
+- Blocking: Buren, Kenee, Beli
+- Action: Beli quietly looks toward Midori.
+- CH11-P049-S05-L01: Beli, speech balloon (one speaker tail): “She doesn't seem frightening.”
+- CH11-P049-S05-L02: Buren, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Buren: “Appearances can be deceiving.” -> “That's exactly why we have to be careful.”
+
+Panel 6:
+- Setting: Novice classroom
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. At the front of the classroom, Roselyn places a lesson book on the teacher's desk. The room immediately becomes silent. She surveys the class with a warm smile. Midori looks up from her desk.
+- Blocking: At the front of the classroom, Roselyn places a lesson book on the teacher's desk.; Midori looks up from her desk.
+- Action: At the front of the classroom, Roselyn places a lesson book on the teacher's desk.
+- CH11-P049-S06-L01: Roselyn, connected speech-balloon chain with 3 balloons; exactly one tail on the entire chain points to Roselyn: “Good morning, everyone.” -> “Before we begin today's lesson...” -> “...there is someone I would like you all to meet.”
+
+Story lettering rule: use exactly the 12 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH11-049-art.png and IAKESI-CH11-049-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
