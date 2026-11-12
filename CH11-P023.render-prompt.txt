@@ -1,0 +1,80 @@
+Render CH11-P023 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH11-023-art.png, IAKESI-CH11-023-lettering.png, and IAKESI-CH11-023-text.txt.
+ARTWORK FILE — IAKESI-CH11-023-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH11-023-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH11-023-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 7 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Rendering style:
+- RENDERING STYLE — BINDING: Domain of the Gods near-photorealistic illustration. Target approximately 70% photorealistic rendering and 30% manga influence.
+- Character sheets and production sheets define identity, proportions, hair geometry, costume construction, colors, props, and environment design ONLY. Do NOT copy their anime/manga/production-sheet drawing style into the finished page.
+- Render canonical character-sheet designs as physically convincing people: dimensional facial anatomy, natural skin shading and texture, realistic eyes within moderately manga-influenced facial aesthetics, individually modeled hair strands/curl masses, physically plausible fabric folds and translucency, convincing material response, volumetric light, photographic depth, and realistic integration into the environment.
+- Avoid polished-anime, cel-shaded, flat digital-illustration, clean line-art, plastic-smooth skin, simplified hair masses, or generic anime-background rendering. The result should feel materially real despite the impossible setting.
+- Authority order for appearance: canonical character/location sheets and specifications control WHAT is depicted; approved rendered-page continuity controls established rendered appearance and finish; this DOTG style rule controls HOW all canonical designs are rendered.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Ashiba-Academy-Campus-Reference-Sheet.png, Assets/Adnil-production-sheet.png, Assets/Midori-Production-Academy.png, Assets/Naandeen-production-sheet.png, Assets/Zarleen-age-19-20.png, Assets/Midori-Temple-Robes.png, Assets/Academy-Uniform-Female.png, Assets/Ashiba-Academy-Assembly-Hall-Podium-Reference-Sheet.png, Assets/Ashire-Character-Sheet.png, Assets/Beli-production-sheet.png, Assets/Buren-Character-Sheet.png, Assets/Kenee-Character-Sheet.png, Assets/Academy-Uniform-Male.png.
+Print-production geometry:
+- AI RENDER-SAFE TARGET: x=173..912, y=111..1424. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=125..960, y=63..1472; page side=recto; binding side=left.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Setting: Assembly Hall
+- Camera: Medium group; retain order and expressions
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Exterior The four girls arrive at the Assembly Hall. They are walking with their backs to the camera into the assembly hall doors. Students enter in orderly lines. Academy instructors welcome students. No dialogue.
+- Blocking: The four girls arrive at the Assembly Hall.
+- Action: The four girls arrive at the Assembly Hall.
+
+Panel 2:
+- Setting: Assembly Hall
+- Camera: Rear/over-shoulder view; no camera reversal
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Interior View from behind Lady Ashire at the podium. The audience fills the hall. The four girls are tiny figures entering through the rear doors. No dialogue.
+- Blocking: Ashire at podium foreground; four roommates tiny at rear doorway, not individually resolved
+- Action: View from behind Lady Ashire at the podium.
+
+Panel 3:
+- Setting: Assembly Hall
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Camera halfway down the house-right aisle looking toward the stage. The girls walk single file. Order: Midori Adnil Naandeen Zarleen Adnil points toward the front row. Only Adnil speaks.
+- Blocking: Adnil points toward the front row.; Only Adnil speaks.
+- Action: Camera halfway down the house-right aisle looking toward the stage.
+- CH11-P023-S03-L01: Adnil, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Adnil: “Up front.” -> “Those are ours.”
+
+Panel 4:
+- Setting: Assembly Hall
+- Camera: Medium shot; show movement and threshold
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Diagonal shot. Midori walks beside Adnil. Two nearby anonymous students notice Midori's black hair. Only Student 1 and Student 2 speak.
+- Blocking: Midori walks beside Adnil.
+- Action: Diagonal shot.
+- CH11-P023-S04-L01: Student 1, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Student 1: “Is that...” -> “...black hair?”
+- CH11-P023-S04-L02: Student 2, speech balloon (one speaker tail): “It can't be...”
+
+Panel 5:
+- Setting: Assembly Hall
+- Camera: Tight shot; preserve expression and eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Close-up. Adnil quietly takes Midori's hand. Only Adnil speaks.
+- Blocking: Adnil quietly takes Midori's hand.; Only Adnil speaks.
+- Action: Close-up.
+- CH11-P023-S05-L01: Adnil, speech balloon (one speaker tail): “You're not walking in alone.”
+
+Panel 6:
+- Setting: Assembly Hall
+- Camera: Tight shot; preserve expression and eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Close-up continuation. Only Midori speaks.
+- Blocking: Only Midori speaks.
+- Action: Close-up continuation.
+- CH11-P023-S06-L01: Midori, speech balloon (one speaker tail): “Thank you.”
+
+Panel 7:
+- Setting: Assembly Hall
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Front row. Left to right: Buren Kenee Beli Across the aisle to the right: Adnil Midori Naandeen and Zarleen are off panel. Only Buren speaks, whispering.
+- Blocking: Naandeen and Zarleen are off panel.; Only Buren speaks, whispering.
+- Action: Front row.
+- CH11-P023-S07-L01: Buren, speech balloon (one speaker tail): “...Demon...?”
+
+Story lettering rule: use exactly the 8 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH11-023-art.png and IAKESI-CH11-023-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.

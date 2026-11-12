@@ -1,0 +1,74 @@
+Render CH11-P030 at 1024×1536 pixels as exactly three coordinated files: IAKESI-CH11-030-art.png, IAKESI-CH11-030-lettering.png, and IAKESI-CH11-030-text.txt.
+ARTWORK FILE — IAKESI-CH11-030-art.png: finished full-color page artwork only. Include panels, gutters, environments, characters, props, lighting and visual effects; include no speech balloons, thought balloons, narration boxes, lettering, captions, non-diegetic SFX, page numbers, panel numbers, or lettering placeholders.
+LETTERING FILE — IAKESI-CH11-030-lettering.png: transparent RGBA overlay at the identical pixel dimensions and registration. Include only the specified speech balloons, thought balloons, narration boxes, tails/dots, text, and non-diegetic SFX. Every other pixel must remain transparent; include no artwork and no page number.
+TEXT FILE — IAKESI-CH11-030-text.txt: plain UTF-8 text containing the authoritative reader-visible story text for this page in simple script format. Preserve exact wording, punctuation, speaker/type, and connected-chain relationships. Do not include production directions.
+Use 6 panels arranged vertically in reading order.
+Use the attached page package as the authoritative resolved SBL source if any ambiguity remains.
+Rendering style:
+- RENDERING STYLE — BINDING: Domain of the Gods near-photorealistic illustration. Target approximately 70% photorealistic rendering and 30% manga influence.
+- Character sheets and production sheets define identity, proportions, hair geometry, costume construction, colors, props, and environment design ONLY. Do NOT copy their anime/manga/production-sheet drawing style into the finished page.
+- Render canonical character-sheet designs as physically convincing people: dimensional facial anatomy, natural skin shading and texture, realistic eyes within moderately manga-influenced facial aesthetics, individually modeled hair strands/curl masses, physically plausible fabric folds and translucency, convincing material response, volumetric light, photographic depth, and realistic integration into the environment.
+- Avoid polished-anime, cel-shaded, flat digital-illustration, clean line-art, plastic-smooth skin, simplified hair masses, or generic anime-background rendering. The result should feel materially real despite the impossible setting.
+- Authority order for appearance: canonical character/location sheets and specifications control WHAT is depicted; approved rendered-page continuity controls established rendered appearance and finish; this DOTG style rule controls HOW all canonical designs are rendered.
+Use these attached canonical/authoritative references as binding for the aspects they define: Assets/Ashiba-Academy-Assembly-Hall-Podium-Reference-Sheet.png, Assets/Ashire-Character-Sheet.png, Assets/Beli-production-sheet.png, Assets/Buren-Character-Sheet.png, Assets/Kenee-Character-Sheet.png, Assets/Academy-Uniform-Female.png, Assets/Academy-Uniform-Male.png, Assets/Midori-Production-Academy.png, Assets/Midori-Temple-Robes.png.
+Print-production geometry:
+- AI RENDER-SAFE TARGET: x=111..850, y=111..1424. Aim all critical content inside this smaller target.
+- Use the attached visual composition guide as the PRIMARY spatial reference when present. Never reproduce that guide in finished artwork.
+- SAFE CONTENT RECTANGLE — BINDING: x=63..898, y=63..1472; page side=verso; binding side=right.
+- Production-area geometry is invisible but BINDING composition geometry. Do NOT draw trim/safe/bleed guides in the finished page.
+- Every complete speech-balloon body, thought-balloon body, narration box, caption, face, and continuity-critical prop must remain wholly inside the safe-content rectangle. Balloon/thought tails may extend toward speakers when necessary. Page folios are prohibited.
+- Background and noncritical artwork may extend outside the safe rectangle through trim/bleed.
+- Before rendering, preflight critical-content placement. If any critical body would cross the safe rectangle, reflow/reposition it first; automatic placement does not waive this requirement.
+
+Panel 1:
+- Setting: Assembly Hall
+- Camera: Rear/over-shoulder view; no camera reversal
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Setting Medium shot from behind Lady Ashire at the podium. Only the first several rows of students are visible. The Assembly Hall has become completely silent. Only Ashire speaks. Draw one connected speech-bubble chain. Tail points only to Ashire.
+- Blocking: Medium shot from behind Lady Ashire at the podium.; Only Ashire speaks.; Tail points only to Ashire.
+- Action: Medium shot from behind Lady Ashire at the podium.
+- CH11-P030-S01-L01: Ashire, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Ashire: “For generations...” -> “...the Temple of Light has safeguarded a prophecy left to us by Ashiba.”
+
+Panel 2:
+- Setting: Assembly Hall
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Setting Reaction shot. Across the aisle (to the stage left): Buren Kenee Beli The students exchange quiet, curious glances. Buren appears intrigued. Kenee looks excited. Beli appears uncertain. Only Ashire speaks. Draw one connected speech-bubble chain. Tail points only to Ashire.
+- Blocking: Kenee looks excited.; Only Ashire speaks.; Tail points only to Ashire.
+- Action: Reaction shot.
+- CH11-P030-S02-L01: Ashire, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Ashire: “Many of you have heard of this prophecy.” -> “Few have expected to witness its fulfillment.”
+
+Panel 3:
+- Setting: Assembly Hall
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Setting Medium shot. Lady Ashire rests both hands lightly on the podium. Her expression is warm but solemn. Only Ashire speaks. Draw one connected speech-bubble chain. Tail points only to Ashire. Background sound effect: Murmur Murmur
+- Blocking: Lady Ashire rests both hands lightly on the podium.; Only Ashire speaks.; Tail points only to Ashire.
+- Action: Medium shot.
+- CH11-P030-S03-L01: Ashire, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Ashire: “Two mons ago...” -> “...the Promised One arrived in Zora.”
+
+Panel 4:
+- Setting: Assembly Hall
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Setting Reaction shot. Foreground: Buren Kenee Beli Only a few anonymous students appear in the background. The whispering spreads through the nearby rows.
+- Blocking: Setting
+- Action: Reaction shot.
+- CH11-P030-S04-L01: Buren, speech balloon (one speaker tail): “The Promised One?”
+- CH11-P030-S04-L02: Kenee, speech balloon (one speaker tail): “She's real?”
+- CH11-P030-S04-L03: Beli, speech balloon (one speaker tail): “I thought it was only a legend.”
+
+Panel 5:
+- Setting: Assembly Hall
+- Camera: Medium/close reaction; preserve eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Setting Medium shot. Lady Ashire waits patiently at the podium. She does not interrupt. The murmuring gradually fades. When the hall becomes quiet again... Only Ashire speaks. Draw one connected speech-bubble chain. Tail points only to Ashire.
+- Blocking: Lady Ashire waits patiently at the podium.; Only Ashire speaks.; Tail points only to Ashire.
+- Action: Medium shot.
+- CH11-P030-S05-L01: Ashire, connected speech-balloon chain with 2 balloons; exactly one tail on the entire chain points to Ashire: “For reasons that will soon become apparent...” -> “...the Temple chose not to announce her arrival immediately.”
+
+Panel 6:
+- Setting: Assembly Hall
+- Camera: Tight shot; preserve expression and eyeline
+- Scene: ZORAN HAIR CANON: every Zoran male, including extras, has white hair; every Zoran female, including extras, has a shade of platinum-blonde hair. Midori is Japanese and has black hair. Do not invent other Zoran hair colors. Setting Close-up of Midori. The background fades softly out of focus. Her eyes widen. She slowly realizes Lady Ashire is speaking about her. Her hands tighten slightly in her lap. She instinctively sits a little straighter. She says nothing. No dialogue.
+- Blocking: Close-up of Midori.; She slowly realizes Lady Ashire is speaking about her.
+- Action: Close-up of Midori.
+
+Story lettering rule: use exactly the 11 panel/story lettered items listed above, verbatim and in the stated balloon/chain structure. Do not invent, paraphrase, continue, summarize, or add any other story text. Page numbers are not part of this handoff and must not be rendered.
+CHAPTER 2 FOLIO RULE — BINDING: do not add a page number or panel number to either output. Folios are generated separately.
+DELIVERY CHECK: return exactly IAKESI-CH11-030-art.png and IAKESI-CH11-030-lettering.png; both must be 1024×1536 pixels, perfectly registered, and unflattened.
